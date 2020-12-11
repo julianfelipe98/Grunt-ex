@@ -20,9 +20,9 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 * In the proyect directory install the dependences as dev dependences:
 
 
-`npm install grunt --save-dev`
+  `npm install grunt --save-dev`
 
-`npm install grunt-contrib-uglify --save-dev`
+  `npm install grunt-contrib-uglify --save-dev`
 
 
 `npm install grunt-contrib-concat --save-dev`
@@ -43,9 +43,9 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 * In the proyect directory install the dependences as dev dependences:
 
 
-`npm install grunt --save-dev`
+  `npm install grunt --save-dev`
 
-`npm install grunt-contrib-uglify --save-dev`
+  `npm install grunt-contrib-uglify --save-dev`
 
 
 `npm install grunt-contrib-concat --save-dev`
@@ -53,6 +53,6 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 
 * In the proyect directory : 
 
-`grunt`
+` grunt`
 
 for concat all .css and .js on css and js folders, this will create two files called styles.css and scripts.js on build folder, there , you will find the .css files concated (styles.css) and .js concated(scripts.js) 
