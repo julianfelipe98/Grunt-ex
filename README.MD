@@ -14,7 +14,9 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 ## Getting started step by step
 
 * Clone the repo https://github.com/julianfelipe98/Grunt-example
-* In the proyect directory : `npm install`
+* In the proyect directory install the dependences as dev dependences:
+`npm install grunt-contrib-uglify --save-dev`
+`npm install grunt-contrib-concat --save-dev`
 
 * In the proyect directory : `grunt conocat-js` for concat all .js on js folder , this will create a file called scripts.js on build folder, there ,there you will find the .js files concated.
 
@@ -24,6 +26,10 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 
 ## Getting started auto
 
-* In the proyect directory : `npm install`
+* Clone the repo https://github.com/julianfelipe98/Grunt-example
+
+* In the proyect directory install the dependences as dev dependences:
+`npm install grunt-contrib-uglify --save-dev`
+`npm install grunt-contrib-concat --save-dev`
 
 * In the proyect directory : `grunt` for concat all .css and .js on css and js folders, this will create two files called styles.css and scripts.js on build folder, there , you will find the .css files concated (styles.css) and .js concated(scripts.js) 
