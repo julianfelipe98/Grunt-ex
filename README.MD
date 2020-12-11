@@ -1,8 +1,8 @@
-# Grunt example
+# Grunt JS example
 
 ## About 
-
-Easy example of GruntJS
+Grunt is a JS task runner,
+this is a Grunt example 
 implementing uglify and concat ,
 more about Grunt: https://gruntjs.com/
 ## Uglify
@@ -51,4 +51,8 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 `npm install grunt-contrib-concat --save-dev`
 
 
-* In the proyect directory : `grunt` for concat all .css and .js on css and js folders, this will create two files called styles.css and scripts.js on build folder, there , you will find the .css files concated (styles.css) and .js concated(scripts.js) 
+* In the proyect directory : 
+
+`grunt`
+
+for concat all .css and .js on css and js folders, this will create two files called styles.css and scripts.js on build folder, there , you will find the .css files concated (styles.css) and .js concated(scripts.js) 
