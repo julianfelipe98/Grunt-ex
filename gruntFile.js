@@ -32,5 +32,6 @@ module.exports=function(grunt){
     //if we want to do one at the time   taskname , task command
     grunt.registerTask('concat-js',['concat:js']);
     grunt.registerTask('concat-css',['concat:css']);
-
+    //config for do it by default
+    grunt.registerTask('default',['concat','uglify']);
 };
