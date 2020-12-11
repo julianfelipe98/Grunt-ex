@@ -15,6 +15,8 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 
 * Clone the repo https://github.com/julianfelipe98/Grunt-example
 * In the proyect directory install the dependences as dev dependences:
+
+
 `npm install grunt-contrib-uglify --save-dev`
 
 
@@ -31,6 +33,8 @@ more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 * Clone the repo https://github.com/julianfelipe98/Grunt-example
 
 * In the proyect directory install the dependences as dev dependences:
+
+
 `npm install grunt-contrib-uglify --save-dev`
 
 
