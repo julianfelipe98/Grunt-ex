@@ -3,13 +3,13 @@
 ## About 
 
 Easy example of Grunt 
-implementing uglify and concat 
+implementing uglify and concat ,
 more about Grunt: https://gruntjs.com/
 ## Uglify
-Grunt plugin for minyfy js files
+Grunt plugin for minyfy js files ,
 more about uglify: https://www.npmjs.com/package/grunt-contrib-uglify
 ## Concat
-Grunt plugin for concating files
+Grunt plugin for concating files ,
 more about concat: https://www.npmjs.com/package/grunt-contrib-concat
 ## Getting started step by step
 
